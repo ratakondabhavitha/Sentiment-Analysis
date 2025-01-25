@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+scikit-learn
+transformers
+indic-nlp-library
