@@ -1,1 +1,1 @@
-# Sntiment-Analysis-Hindi-English
+# Sentiment-Analysis-Hindi-English
